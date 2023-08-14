@@ -8,3 +8,8 @@
 This file was altered to show the six different types of headers in markdown
 
 ![Image of a cat](https://st.depositphotos.com/1735158/2383/i/600/depositphotos_23835875-stock-photo-cat-and-flower-on-the.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
